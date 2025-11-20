@@ -1,0 +1,8 @@
+{
+  "name": "SpeedSpeak AI",
+  "description": "A fun, AI-powered English practice app to boost your reading and speaking speed using Gemini models.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
